@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Total Gas 12KG",
+        "image": "https://www.pngall.com/wp-content/uploads/4/Gas-Cylinder-PNG.png",
+        "price": 30000,
+        "type": "Refill"
+    },
+    {
+        "name": "Shell Gas 3KG",
+        "image": "https://www.kindpng.com/picc/m/759-7592857_gas-cylinder-head-png-transparent-png.png",
+        "price": 30000,
+        "type": "Refill"
+    },
+    {
+        "name": "Stabex Gas 2KG",
+        "image": "https://p.kindpng.com/picc/s/329-3292685_hp-gas-cylinder-png-transparent-png.png",
+        "price": 30000,
+        "type": "Refill"
+    },
+    {
+        "name": "Controller Gas 15KG",
+        "image": "https://p.kindpng.com/picc/s/553-5538474_gas-cylinder-png-pic-bottle-transparent-png.png",
+        "price": 30000,
+        "type": "Refill"
+    }
+]
